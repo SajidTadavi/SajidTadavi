@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SajidTadavi
-- 👀 I’m interested in ...Data science
+- 👀 I’m interested in ...Cyber Security
 - 🌱 I’m currently learning ...NetworkSecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Sajidtadavi95@gmail.com
